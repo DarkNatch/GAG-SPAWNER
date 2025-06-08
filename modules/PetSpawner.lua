@@ -1,7 +1,7 @@
 -- modules/pets.lua
 return function(Window)
     local Tab = Window:MakeTab({
-        Name = "Pet Features 🐾",
+        Name = "Pet Spawn🐾",
         Icon = "rbxassetid://123456",
         PremiumOnly = false
     })
