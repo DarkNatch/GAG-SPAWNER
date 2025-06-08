@@ -1,5 +1,5 @@
 return function(Window)
-    local Tab = Window:MakeTab({Name = "Pet Features 🐾", Icon = "rbxassetid://123456", PremiumOnly = false})
+    local Tab = Window:MakeTab({Name = "Pet Spawner🐾", Icon = "rbxassetid://123456", PremiumOnly = false})
     local weight = "Normal"
 
     Tab:AddTextbox({
